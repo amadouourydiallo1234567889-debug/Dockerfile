@@ -1,0 +1,16 @@
+{
+  "BOT_NAME": "Dicta-Bot-Md",
+  "DEV_NAME": "Mr Dicta Dev",
+  "DEV_NUMBERS": [
+    "+224614487263",
+    "+224626025562"
+  ],
+  "CHANNEL_LINK": "https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306",
+  "NEWSLETTER_JID": "1203634265827684@newsletter",
+  "NEWSLETTER_NAME": "Dicta-MD Mini V²",
+  "GROUP_INVITE_LINK": "https://chat.whatsapp.com/Jpf5TU6nrwlFcQnW86bR7f",
+  "PREFIX": ".",
+  "BOT_PP": "https://files.catbox.moe/prkkzj.png",
+  "GITHUB_REPO_TYPE": "Bot WhatsApp basé sur Baileys (type MD bot) avec système de plugins, pairing, MongoDB",
+  "GITHUB_REPO_NAME": "Mr Dicta"
+}
